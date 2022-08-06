@@ -1,0 +1,115 @@
+body{
+    background-color: #CDF0EA;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1{
+    color: #64bbf6;
+    font-size: 4em;
+    margin-top: 50px;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #64bbf6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    color: #64bbf6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    background-color: #c9fdf4;
+    position: relative;
+    padding-top: 100px
+}
+
+
+.middle-container{
+}
+
+.bottom-container{
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+p{
+    color: #5807fb;
+    font-size: large;
+    font: italic 1.2em "Fira Sans", serif;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile{
+    top: 50px;
+}
+
+.my-skill{
+    /* border-radius: 50%; */
+    float: left;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.skill-row1{
+    text-align: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.skill-row2{
+    text-align: right;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.code{
+   float: right;
+   margin-right: 100px;
+   margin-left: 50px;
+}
+
+.contact{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.contact-me{
+    margin-top: 50px;
+}
+
+.btn{
+    border-radius: 8px;
+    font-family: 'Port Lligat Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    border: dotted #159633 2px;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+
+a:hover{
+    color: black;
+    background-color: rgb(158, 158, 225);
+}
